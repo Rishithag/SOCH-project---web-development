@@ -1,0 +1,31 @@
+body {    
+	 background : url("PHOTO_COLLAGE1549036813832.png"); 
+	 border:20px solid #bdc3c7;
+	 margin-right: 15%;
+	margin-left: 15%;
+	padding-left: 5%;
+	padding-right: 5%;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1 {
+	color: red;
+	width : 50%;
+	margin-left: 240px;
+	font-size: 50px;
+	padding: 5px;
+	font-family: ZCOOL KuaiLe;
+}
+
+img {
+	margin-left: 220px;
+}
+
+li {
+
+	font-size:  30px;
+	font-family: Abril Fatface;
+	margin-left: 70px;
+
+}

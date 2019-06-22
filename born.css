@@ -1,0 +1,24 @@
+body {
+	 border:20px solid #bdc3c7;
+	 margin-right: 15%;
+	margin-left: 15%;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+h2 {
+	font-size: 30px;
+	font-family: Abril Fatface;
+	color:#2b28a5;
+}
+
+p {
+	font-size: 25px;
+	font-family: Pacifico;
+	color:  #795548;
+}
+
+li {
+	font-size: 25px;
+	font-family: Pacifico;
+	color:  #d210a7;
+}

@@ -1,0 +1,7 @@
+body {
+	/*background : url("water.png");*/
+	background-image: url("water.png");
+
+	background-repeat: no-repeat;
+	background-size: cover;
+}
